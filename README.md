@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soham Balekar
-- 🌱 IT Engineering student Graduating in 2022
+- 🌱 IT Engineering student from Mumbai University Graduating in 2022
 - ✔ Programming Language Skills: PHP, Python, Java, HTML5, CSS3, JavaScript.
 - ✔ I am good with Bootstrap and Laravel framework.
 - ✔ I am a self learner who is constantly striving to learn something new !
