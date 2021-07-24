@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soham Balekar
-- 🌱 IT Engineering Graduating in 2022
+- 🌱 IT Engineering student Graduating in 2022
 - 📫 You can reach out to me at balekarsoham@gmail.com
 
 <!---
