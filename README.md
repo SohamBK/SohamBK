@@ -4,6 +4,7 @@
 - ✔ I am good with Bootstrap and Laravel framework.
 - ✔ I am a self learner who is constantly striving to learn something new !
 - 📫 You can reach out to me at balekarsoham@gmail.com
+- LinkedIn Profile : https://www.linkedin.com/in/soham-balekar/
 
 
 <!---
